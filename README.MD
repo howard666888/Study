@@ -11,7 +11,7 @@
 
 <h1 align="center">📚Yuhao的学习记录</h1>
 
-在线阅读地址：[Yuhao的学习记录)](http://study.yuhaoo.top/)
+在线阅读地址：[(Yuhao的学习记录)](http://study.yuhaoo.top/)
 
 <!--APP下载链接：[面试浓缩APP下载](https://www.yd-mobile.cn/pack/download?versionId=2497&packName=com.xiaoyou.interview)   -->
 

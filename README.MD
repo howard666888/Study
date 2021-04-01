@@ -9,11 +9,11 @@
 -->
 ​    
 
-<h1 align="center">📚面试问题浓缩总结</h1>
+<h1 align="center">📚Yuhao的学习记录</h1>
 
-在线阅读地址：[面试问题浓缩总结 (xiaoyou66.com)](http://interview.xiaoyou66.com/)
+在线阅读地址：[Yuhao的学习记录)](http://study.yuhaoo.top/)
 
-APP下载链接：[面试浓缩APP下载](https://www.yd-mobile.cn/pack/download?versionId=2497&packName=com.xiaoyou.interview)
+<!--APP下载链接：[面试浓缩APP下载](https://www.yd-mobile.cn/pack/download?versionId=2497&packName=com.xiaoyou.interview)   -->
 
 ## 💎创建目的
 
@@ -111,13 +111,13 @@ APP下载链接：[面试浓缩APP下载](https://www.yd-mobile.cn/pack/download
 - 算法
 - 数据结构
 - 设计模式
-
+<!--
 ## 💰支持这个项目
 
 | 微信                                                         | 支付宝                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![img](https://img.xiaoyou66.com/images/2020/03/01/ySH4.png) | ![img](https://img.xiaoyou66.com/images/2020/03/01/yJWT.jpg) |
-
+-->
 ##  ✉联系
 
 - **B站**: <https://space.bilibili.com/343147393>

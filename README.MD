@@ -1,12 +1,12 @@
 <p align="center"><a href="http://study.yuhaoo.top/" target="_blank" rel="noopener noreferrer"><img width="180" src="http://interview.xiaoyou66.com/img/study.png" alt="logo"></a></p>
 
-/*
+<!--
 <p align="center">
     <a href="http://interview.xiaoyou66.com/"> <img src="https://badgen.net/badge/%E5%B0%8F%E6%B8%B8/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=sourcegraph"></a>
   <a href="https://github.com/xiaoyou66/interview/actions?query=workflow%3ACI"><img src="https://github.com/xiaoyou66/interview/workflows/CI/badge.svg" alt="CI"></a>
   <a href="https://github.com/xiaoyou66/interview"><img src="https://img.shields.io/github/stars/xiaoyou66/interview?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"></a>
    <a href="https://github.com/xiaoyou66/interview"> <img src="https://badgen.net/github/forks/xiaoyou66/interview?icon=github"></a>
-*/
+-->
 ​    
 
 <h1 align="center">📚面试问题浓缩总结</h1>
